@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Achak-prjt
 
 **Chef de projet : Ayman Taheri**
@@ -26,3 +27,6 @@
 ---
 
 Pour toute question, contactez le chef de projet. 
+=======
+# Achak-prjt
+>>>>>>> 7f14211423fbb891ca439191fa368573fbe206ea
